@@ -23,4 +23,4 @@ print("Data sebelum diurutkan:", data)
 
 quick_sort(data, 0, len(data) - 1)
 
-print("Data setelah Quick Sort:", data)
+print("Data setelah Quick Sort:", data).
